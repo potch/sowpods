@@ -1,3 +1,3 @@
 var fs = require('fs');
 
-module.exports = fs.readFileSync('./SOWPODS.txt').toString().split('\n');
+module.exports = fs.readFileSync(__dirname + '/SOWPODS.txt').toString().split('\n');
