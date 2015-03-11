@@ -1,0 +1,23 @@
+{
+  "name": "sowpods",
+  "version": "1.0.0",
+  "description": "The SOWPODS Scrabble word list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrabble",
+    "words"
+  ],
+  "author": "potch",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potch/sowpods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/potch/sowpods/issues"
+  },
+  "homepage": "https://github.com/potch/sowpods"
+}
